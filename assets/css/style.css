@@ -1,0 +1,29 @@
+body *{
+	font-family: monospace;
+	font-size: 12px;
+}
+
+a,
+a:hover,
+a:visited {
+	text-decoration: none;
+	color: initial;
+}
+
+.navbar.navbar-contact .row {
+	width: 100%;
+	padding: 4px;
+	text-align: center;
+}
+
+.navbar.navbar-contact .contact-tel {
+	padding-left: 8px;
+}
+
+.navbar .row span,
+.navbar .row a {
+	color: #fff;
+}
+.navbar .row span {
+	font-weight: 80;
+}
